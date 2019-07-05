@@ -1,0 +1,58 @@
+div{
+    background-color: black;
+    color: white;
+}
+input{
+    color:black;
+    background-color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.quentao{
+font-family: Arial, Helvetica, sans-serif;
+background-color:white;
+font-size: 12px;
+color: black
+}
+.tempero{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+background-color:white;
+color:black;
+}
+.cha{font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+background-color:white;
+color: black;
+}
+.bala{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+    background-color:white;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+ }
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    color:white;
+}
+h1{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+body{
+    background-color:green;
+    background-image: url()
+}
+button{
+    margin: 30px;
+    margin-bottom:30px;
+    margin-right: 30px;
+    margin-left: 30px; 
+    font-family: Arial, Helvetica, sans-serif
+}
